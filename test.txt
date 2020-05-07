@@ -1,4 +1,5 @@
 hello world
+<<<<<<< HEAD
 
 22222222222
 
@@ -7,4 +8,6 @@ hello world
 44444444444
 
 66666666666
+=======
+>>>>>>> parent of 398b7fc... 2 versia
 
